@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab2_punto4</string>
+
+    <string name="Titulo">Areae</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="cuad">Piazza: </string>
+    <string name="triang">Triangolo: </string>
+    <string name="circ">Cerchio: </string>
+    <string name="rect">Rettangolo: </string>
+    <string name="base1">Base</string>
+    <string name="altura1">Altezza</string>
+    <string name="radio1">Radio</string>
+    <string name="lado1">Lado</string>
+    <string name="base">Base: </string>
+    <string name="altura">Altezza: </string>
+    <string name="radio">Radio: </string>
+    <string name="lado">Lato: </string>
+    <string name="calc">Calcolare</string>
+    <string name="area">Area: </string>
+    <string name="cero">0.00</string>
+    <string name="cero1">0</string>
+</resources>
